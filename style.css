@@ -1,0 +1,52 @@
+#container{
+    border: solid 2px;
+    padding: 30px;
+    margin: 0 auto;
+    color: black;
+    width: 50%;
+}
+.input{
+    padding: 20px;
+    border-radius: 5px;
+    border: solid 1px;
+    width: 50%;
+}
+button{
+    padding: 20px;
+    background-color: black;
+    border-radius: 5px;
+    border: 0 cap;
+    color: white;
+    width: 50%;
+}
+.tables,th,td{
+    border: solid 2px;
+    padding: 30px;
+    margin: 0 auto;
+    width: 50%;
+    color: black;
+    background-color: white;
+}
+.google logo{
+    height: 1px;
+    width: 1px;
+    size: 3px;
+
+}
+.facebook.png{
+    height: 1px;
+    width: 1px;
+    size: 3px;
+
+}
+    
+    
+    
+
+
+
+
+
+    
+
+
